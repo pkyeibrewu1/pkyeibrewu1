@@ -15,13 +15,13 @@ and I'm currently strengthening my programming and systems skills.
 
 ### Featured Projects
 
-**[RentWorth]((https://www.rentworth.app/)**
+**[RentWorth](https://rentworth.app/)**
 Student housing review platform built with Node.js, Express, SQLite, and JavaScript.
 
 **[FLC Attendance Tracker](https://flc-attendance-frontend.onrender.com/)**
 Full-stack attendance management application using JavaScript, Express, Prisma, and PostgreSQL.
 
-**[Checkmate]((https://checkmate-dashboard.onrender.com/)**
+**[Checkmate](https://checkmate-dashboard.onrender.com/)**
 Restaurant payment verification application built with Java and REST APIs.
 
 ### Currently Learning
