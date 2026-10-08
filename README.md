@@ -1,15 +1,14 @@
 # Hi, I'm Pamela 👋
 
-I'm a Mathematics major with a Computer Science minor at Georgia State University, 
-concentrating in Applied Mathematics.
+I'm a Mathematics student at Georgia State University pursuing a B.S. in Mathemaics with a concentration in Applied Mathematics and a minor in Computer Science, along with an M.S. in Mathematics through the dual enrollment program.
 
-I'm interested in software engineering, data, and computational applications, 
-and I'm currently strengthening my programming and systems skills.
+I'm interested in software engineering, data, machine learning, quantitative finance, applied mathematics, and computational applications. I'm currently strengthening my programming, mathematical , and problem-solving skills.
 
 ### Technical Skills
-- Python, Java, C(in progress), JavaScript
+- Python, Java, C, JavaScript
 - HTML, CSS, Node.js, Express.js
-- SQL (in progress)
+- SQL, Power BI, Power Automate
+- Docker, Jenkins, Kubernetes, AWS, CI/CD, Streamlit
 - Unix/Linux, Shell
 - Git & GitHub
 
@@ -29,3 +28,4 @@ Restaurant payment verification application built with Java and REST APIs.
 - Data structures and algorithms
 - Backend development
 - SQL and database design
+- Statistics and computational mathematics
